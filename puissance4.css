@@ -1,0 +1,19 @@
+tr {
+	background-color: blue;
+}
+
+td {
+	border : solid blue 3px;
+	border-radius: 90px;
+	width: 100px;
+	height: 100px;
+	background-color: white;
+}
+
+.joueur1 {
+	background-color: red;
+}
+
+.joueur2 {
+	background-color: yellow;
+}
